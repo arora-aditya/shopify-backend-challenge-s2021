@@ -4,7 +4,10 @@
 
 Documentation and demo can be found here: https://documenter.getpostman.com/view/10967881/TzRREUjZ
 
-![demo](https://i.imgur.com/vAyrKEB.mp4)
+### Demo
+https://user-images.githubusercontent.com/10962267/117592661-71f98f00-b107-11eb-8eaf-e2f834712a7e.mov
+
+
 
 ## Pre-requisites to run locally
 1. NodeJS (v12.20.0 or above)
